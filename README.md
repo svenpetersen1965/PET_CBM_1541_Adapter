@@ -17,16 +17,16 @@ For communication with the disk drive, a special instruction set is required.
 •	No device number (,8) is required for any of the instructions<br>
 •	The instructions are mostly standard BASIC4 instructions and can be short-cut as usually
 
-load 	    !load"progname" 	       loads a program from 1541 <br>
-save 	    !save"progname" 	       saves a program to 1541 <br>
-verify	  !verify"progname"	       verifies a program <br>
-catalog 	!catalog 	               displays the driectory of the floppy disk in the 1541 
-open	    !open#SA,"file name" 	   it requires a # and after that it is a secondary address* 
-print# 	  !print#,"text" 	         prints a texts, also a secondary address after #* 
-get# 	    * 	                     * 
-close 	 !close#SA 	               closes a file, also a secondary address after #* 
-input# 	 !input#SA...*             * 
-cmd 	   !cmd...* 	               * 
+!load"progname": 	       loads a program from 1541 <br>
+!save"progname": 	       saves a program to 1541 <br>
+!verify"progname":	       verifies a program <br>
+!catalog: 	               displays the driectory of the floppy disk in the 1541 <br>
+!open#SA,"file name": 	   it requires a # and after that it is a secondary address* <br>
+!print#,"text": 	         prints a texts, also a secondary address after #* <br>
+!get#: 	   * <br>
+!close#SA: 	               closes a file, also a secondary address after #* <br>
+!input#SA...: *<br>  
+!cmd...* 	 <br>
 
 The items marked with * require some further investigation. See the test documentation.
 
