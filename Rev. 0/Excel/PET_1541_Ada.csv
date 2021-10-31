@@ -1,0 +1,18 @@
+"Qty";"Value";"Device";"Package";"Parts";"Description";"";
+"1";"";"2X03WV";"2X03WV";"J2";"";"";
+"4";"";"BOHR3,5";"BOHR3,5";"DRL1, DRL2, DRL3, DRL4";"";"";
+"1";"010599";"010599";"010599";"J3";"";"";
+"3";"100n";"CAP01";"C-2,5";"C1, C2, C3";"";"";
+"8";"1N4148";"1N41480.3"";"DO-35/3";"D1, D2, D3, D4, D5, D6, D7, D8";"";"";
+"1";"1N5908";"1N5908";"CB429";"D9";"";"";
+"4";"1k";"RES04";"R-10";"R2, R3, R4, R5";"";"";
+"1";"3k3";"RES04";"R-10";"R1";"";"";
+"1";"74LS04N";"7404DIL";"DIL-14";"IC2";"";"";
+"1";"74LS06N";"7406N";"DIL-14";"IC1";"";"";
+"2";"COMBI-3P";"COMBI-3P";"COMBI-3P";"JP2, JP3";"";"";
+"1";"COMBI_2P";"COMBI_2P";"COMBI-2P";"JP4";"";"";
+"1";"COMBI_2X10";"COMBI_2X10";"COMBI-10X2";"JP1";"";"";
+"1";"FCR681465P";"FCR681465P";"FCR681465P";"J4";"";"";
+"1";"JPT1236HB";"JPT1236HB";"JTP_1236HB";"SW6";"";"";
+"1";"OPEN_SOURCE_HW";"OPEN_SOURCE_HW";"OPENHW";"U$2";"";"";
+"1";"PET-USERPORT";"PET-USERPORT";"USERPORT";"J1";"";"";
