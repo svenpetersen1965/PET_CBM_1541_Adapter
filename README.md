@@ -25,9 +25,11 @@ For communication with the disk drive, a special instruction set is required.
 !print#,"text": 	         prints a texts, also a secondary address after #* <br>
 !get#: 	   * <br>
 !close#SA: 	               closes a file, also a secondary address after #* <br>
-!input#SA...: *<br>  
-!cmd...* 	 <br>
+!input#SA: *<br>  
+!cmd: *<br>
 
 The items marked with * require some further investigation. See the test documentation.
 
 The software resides in a 2532 EPROM in UD11 and is started with SYS40960.
+
+Find more in the project documentation and <a href="http://tech.guitarsite.de/cbm_1541_ada.html">my website</a> 
