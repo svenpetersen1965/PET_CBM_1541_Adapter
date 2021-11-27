@@ -33,3 +33,5 @@ The items marked with * require some further investigation. See the test documen
 The software resides in a 2532 EPROM in UD11 and is started with SYS40960.
 
 Find more in the project documentation and <a href="http://tech.guitarsite.de/cbm_1541_ada.html">my website</a> 
+
+Mike Naberezny  did some further inverstigation of the EPROM binary/disassembly and has found out some interesting details. Check out his <a href="https://github.com/mnaberez/vc1541dos">github repository</a>.
