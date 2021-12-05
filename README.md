@@ -37,4 +37,4 @@ Find more in the project documentation and <a href="http://tech.guitarsite.de/cb
 Mike Naberezny  did some further inverstigation of the EPROM binary/disassembly and has found out some interesting details. Check out his <a href="https://github.com/mnaberez/vc1541dos">github repository</a>.
 
 # Fixes
-The CB2 was improperly lablöed as CA2. This is fixed in the Gerbers v0a.
+The CB2 was improperly labled as CA2. This is fixed in the Gerbers v0a.
