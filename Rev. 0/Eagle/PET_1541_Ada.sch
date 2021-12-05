@@ -5354,7 +5354,7 @@ if not reqired</text>
 <pinref part="JP1" gate="G$1" pin="19"/>
 </segment>
 </net>
-<net name="CA2" class="0">
+<net name="CB2" class="0">
 <segment>
 <pinref part="J1" gate="G$1" pin="CB2"/>
 <wire x1="88.9" y1="170.18" x2="106.68" y2="170.18" width="0.1524" layer="91"/>
