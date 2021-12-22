@@ -3,6 +3,8 @@ This is an adapter for connecting the 1541 (or other IEC floppy disk drives) to 
 
 <img src="https://github.com/svenpetersen1965/PET_CBM_1541_Adapter/blob/main/Rev.%200/Pictures/9899_-_CBM1541Ada.JPG" width="300" alt="Setup">
 
+<img src="https://github.com/svenpetersen1965/PET_CBM_1541_Adapter/blob/main/Rev.%200/Pictures/0572_-_complete_w_case.JPG" width="300" alt="Setup">
+
 <img src="https://github.com/svenpetersen1965/PET_CBM_1541_Adapter/blob/main/Rev.%200/Pictures/9896_-_installation_CBM1541ada.JPG" width="300" alt="Setup">
 
 <img src="https://github.com/svenpetersen1965/PET_CBM_1541_Adapter/blob/main/Rev.%200/Pictures/0037_-_setup_1541-II.JPG" width="300" alt="Setup">
